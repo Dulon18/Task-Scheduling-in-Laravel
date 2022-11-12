@@ -7,6 +7,10 @@ The scheduler allows you to fluently and expressively define your command schedu
 
 https://laravel.com/docs/9.x/scheduling
 
+## Why we have to use cron job?
+
+Many times we need to send notifications or send email automatically to users for update property or products. So at that time you can define some basic logic for each days, hours etc can run and send email notification.
+
 ## Process
 
 - php artisan make:command DemoCron --command=demo:cron
