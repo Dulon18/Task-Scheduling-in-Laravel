@@ -6,3 +6,8 @@
 The scheduler allows you to fluently and expressively define your command schedule within your Laravel application itself. When using the scheduler, only a single cron entry is needed on your server. Your task schedule is defined in the app/Console/Kernel.php file's schedule method.
 
 https://laravel.com/docs/9.x/scheduling
+
+## Process
+
+- php artisan make:command DemoCron --command=demo:cron
+- php artisan schedule:run
