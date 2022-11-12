@@ -11,3 +11,6 @@ https://laravel.com/docs/9.x/scheduling
 
 - php artisan make:command DemoCron --command=demo:cron
 - php artisan schedule:run
+
+
+<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://user-images.githubusercontent.com/80118217/201479037-89e9c77d-bb67-458e-a990-1a349aef3899.JPG" width="400"></a></p>
