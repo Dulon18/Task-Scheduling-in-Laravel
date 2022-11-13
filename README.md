@@ -18,6 +18,9 @@ Many times we need to send notifications or send email automatically to users fo
 - we need to define our commands on Kernel.php file with time when you want to run your command like as bellow functions:
 
 
+<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://user-images.githubusercontent.com/80118217/201533854-704b1eda-156a-4e15-a382-857666d4aadf.JPG" width="600"></a></p>
+
+
 ## Output
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://user-images.githubusercontent.com/80118217/201479037-89e9c77d-bb67-458e-a990-1a349aef3899.JPG" width="400"></a></p>
