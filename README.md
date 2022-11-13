@@ -24,3 +24,6 @@ Many times we need to send notifications or send email automatically to users fo
 
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://user-images.githubusercontent.com/80118217/201479089-acaee851-585a-41e3-b889-fea768cd4995.JPG" width="400"></a></p>
+
+
+<p align="center"><span style="color: red;">&hearts;</span> Thank You <span style="color: red;">&hearts;</span></p>
