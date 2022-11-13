@@ -15,6 +15,7 @@ Many times we need to send notifications or send email automatically to users fo
 
 - php artisan make:command DemoCron --command=demo:cron
 - php artisan schedule:run
+- we need to define our commands on Kernel.php file with time when you want to run your command like as bellow functions:
 
 
 ## Output
