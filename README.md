@@ -20,7 +20,12 @@ Many times we need to send notifications or send email automatically to users fo
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://user-images.githubusercontent.com/80118217/201533854-704b1eda-156a-4e15-a382-857666d4aadf.JPG" width="600"></a></p>
 
-
+## Installation Instructions
+- Clone the repo.
+- Run 'composer install'
+- Run 'cp .env.example .env'
+- Run 'php artisan migrate'
+- Run 'php artisan serve'
 ## Output
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://user-images.githubusercontent.com/80118217/201479037-89e9c77d-bb67-458e-a990-1a349aef3899.JPG" width="400"></a></p>
